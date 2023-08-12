@@ -1,0 +1,8 @@
+{
+  "AccessabilityNodeProvider": "Accessibility Node Provider",
+  "LeftText": "Appium",
+  "ScrollDownToScaleToFitLabel": "ScaleToFit",
+  "AssertOnGraphics/ScaleToFit": "Graphics/ScaleToFit",
+  "ScrollDownToVertices": "Vertices",
+  "ScrollDownToVerticesRadioGroup": "Radio Group"
+}
